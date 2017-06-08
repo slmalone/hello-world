@@ -1,3 +1,3 @@
 # hello-world
-Initial Test
+Initial Test\n
 Working on a branch. 
